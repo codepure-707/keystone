@@ -12,7 +12,7 @@
   "dependencies": {
     "@keystone-6/core": "^6.4.0",
     "@prisma/client": "6.5.0",
-    "next-auth": "^4.24.11"
+    "next-auth": "^4.24.12"
   },
   "devDependencies": {
     "prisma": "6.5.0",
